@@ -14,7 +14,7 @@ div.jumbotron
   text-align: center;
 }
 
-h1 jumbotron
+h1#jumbotron
 {
     font-size: 60px;
 }
